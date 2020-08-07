@@ -1,0 +1,17 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    # Runs at the end of every day
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@1.1.0
+        with:
+          feed_list: "https://www.michaelfasani.com/rss.xml"
+          max_post_count: "4"
