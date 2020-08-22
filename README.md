@@ -10,8 +10,8 @@ Welcome, I am currently trying to maintain a 365 day contribution streak!
 
 📕 **My Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [A list of useful npm and node commands I use to boost my productivity](https://www.michaelfasani.com/2020/a-list-of-useful-npm-and-node-commands-i-use-to-boost-my-productivity/)
-- [A complete guide to setting up Gatsby Cloud, Amazon S3 and Amazon CloudFront](https://www.michaelfasani.com/2020/a-complete-guide-to-setting-up-gatsby-cloud-amazon-s3-and-amazon-cloudfront/)
-- [Setting up my first EC2 instance on amazon web services (AWS)](https://www.michaelfasani.com/2020/setting-up-my-first-AWS-EC2-instance/)
+- [Useful npm and node commands I use to boost productivity](https://www.michaelfasani.com/2020/npm-node-commands-boost-productivity/)
+- [Hosting Gatsby with Gatsby Cloud, Amazon S3 and CloudFront](https://www.michaelfasani.com/2020/a-complete-guide-to-setting-up-gatsby-cloud-amazon-s3-and-amazon-cloudfront/)
+- [Creating my first EC2 instance on Amazon Web Services (AWS)](https://www.michaelfasani.com/2020/setting-up-my-first-AWS-EC2-instance/)
 - [Installing Tailwind CSS on top of the Gatsby starter default](https://www.michaelfasani.com/2020/installing-tailwind-css-on-top-of-the-gatsby-starter-default/)
 <!-- BLOG-POST-LIST:END -->
