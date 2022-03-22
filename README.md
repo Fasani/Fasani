@@ -10,6 +10,8 @@ Welcome!
 
 📕 **My Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [How a single vote can skew decisions in a decentralized network (D3 DATAVIZ)](https://www.michaelfasani.com/2022/single-vote-can-skew-decisions-decentralized-network-d3-dataviz/)
+- [A brief introduction to Braintrust, the BTRST token and ethers.js](https://www.michaelfasani.com/2022/introduction-to-braintrust-btrst-token-and-ethersjs/)
 - [Learning to touch-type with the Colemak layout, 60 WPM in 90 days](https://www.michaelfasani.com/2021/learning-to-touchtype-with-the-colemak-layout/)
 - [How to detect if an iFrame is fully loaded in React using a custom hook](https://www.michaelfasani.com/2021/detect-if-iframe-is-fully-loaded-react-custom-hook/)
 - [Build a GraphQL wrapper for an existing REST API using Amplify and AppSync](https://www.michaelfasani.com/2020/build-graphql-wrapper-existing-rest-api-amplify-appsync/)
